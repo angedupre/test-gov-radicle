@@ -1,4 +1,4 @@
-# [RFC] RGP-1000_Foundation Org Proposal 202X
+# [RFC] RGP-Org Proposal 202X
 
 | Author(s): | Jazz, Nat, Ark [did:key:z6MkkwecJtmiynJ1vvEVR8wpbnvfBoX2TWGU6HCHEEszZCLd] |
 | --- | --- |
