@@ -1,34 +1,15 @@
-# Org Proposal Template [v0.2]
+# [RFC] RGP-1000_Foundation Org Proposal 202X
 
-> ℹ️ **Org Proposals** are a specific type of [Executable Proposal](/executable.md). They are a request to Radworks to fund groups of contributors working on different technologies that align with the Radworks' purpose. Org Proposals are different than Grant proposals, as they outline continuous budgeted work vs. milestone-based work. This proposal type needs to pass both an off-chain Snapshot poll and an on-chain governance submission to succeed. Use this template as a guide to draft a Org Proposal.
-> 
-> **General Info & Tips**
-> - Try to keep each section clear and concise!
-> - Please include any relevant links or post in each section.
-
-**Org** **Proposals** must be labeled in the following format:
-
-`[PHASE][RGP - #] - [NAME OF ORG & YEAR]`
-
-The phase will either be 'Request for Comments (RFC)', 'Formal Review', or 'Submission'. A governance facilitator will update the RGP with the correct number. They will move the proposal from category to category as the proposal makes its way through the governance process.
-
-
->💡 We expect this template to change over time as we learn more about how Orgs operate within Radworks.
-
-# Proposal Header
-
-| Author(s): | [INSERT NAMES OF PROPOSAL AUTHORS] |
+| Author(s): | Jazz, Nat, Ark [did:key:z6MkkwecJtmiynJ1vvEVR8wpbnvfBoX2TWGU6HCHEEszZCLd] |
 | --- | --- |
 | Type: | `executeable` `org` |
-| Created: | [DATE IN YYYY-MM-DD FORMAT] |
+| Created: | [YYYY-MM-DD FORMAT] |
 | # of proposals to Radworks: |  `# of previous proposals`
 | Status: | `passed` `failed` `active` `paused` `archived` |
 | Request for Comments: | [Link to RFC] |
 | Formal Review: | [Link to Snapshot vote] |
 | Submission: | [Link to Submission]  |
 
-
-> 💡 Proposal Authors (the individual(s) who created a proposal) are expected to escalate proposals from phase to phase, with guidance from community moderators. This also means they are responsible for creating forum posts for each stage. If the original Author(s) can’t move a Proposal forward, they are responsible for finding someone to replace them. Any changes need to be communicated in the proposal.
 
 ## **Purpose**
 > 👉 What is this Org aiming to achieve? What problem(s) is it trying to solve?
